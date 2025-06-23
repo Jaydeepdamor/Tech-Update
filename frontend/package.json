@@ -1,0 +1,13 @@
+{
+  "name": "tech-survey-frontend",
+  "version": "1.0.0",
+  "description": "Technology Survey Frontend for Vercel deployment",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": ["survey", "technology", "frontend"],
+  "author": "Tech Survey Team",
+  "license": "MIT"
+}
